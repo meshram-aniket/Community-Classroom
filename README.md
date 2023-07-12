@@ -1,1 +1,1 @@
-Fully Responsive Educational Website using HTML, CSS & JS
+Fully Responsive Online Educational Website using HTML, CSS & JS
